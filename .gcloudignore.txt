@@ -1,0 +1,10 @@
+.git
+__pycache__
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
+fix_model.py
+train_model_v3.py
+convert_model.py
+README.md
+.github
